@@ -1,4 +1,4 @@
-module home/dan/goo/golang-united-school-homework-1
+module main
 
 go 1.13
 
